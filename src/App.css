@@ -211,7 +211,9 @@ footer a:hover {
     color: #fff;
     display: flex;
     flex-direction: column;
+    height: 96vh;
 }
+
 .asideInner {
     flex: 1;
 }
@@ -229,6 +231,7 @@ footer a:hover {
     flex-direction: column;
     font-weight: bold;
 }
+
 .userName {
     margin-top: 10px;
 }
@@ -246,6 +249,7 @@ footer a:hover {
     width: 100%;
     margin-top: 20px;
 }
+
 .CodeMirror {
     min-height: calc(100vh - 20px);
     font-size: 20px;
